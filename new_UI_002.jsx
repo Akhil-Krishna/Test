@@ -1871,7 +1871,6 @@ const getProductNameByCode = (code: string, isRelated: boolean) => {
                         ))}
                         </Grid>
                         </Grid>
-                        </Grid>
                     </Grid>
 
               </ABMTabPanel>
